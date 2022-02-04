@@ -1,0 +1,44 @@
+body {
+    background-color: #222;
+}
+
+header {
+    position: relative;
+    text-align: center;
+    color: #c47454;
+}
+
+input{
+    width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#myForm {
+    position: relative;
+    text-align: center;
+    margin: 120px;
+    font-size: 30px;
+    color: #c47454;
+}
+
+.submitBtn {
+    position: relative;
+    text-align: center;
+    margin: 70px;
+    margin-right: 35px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #c47454;
+}
+
+.visitedUsers{
+    color: #c47454;
+    font-size: 29px;
+
+}
+
+.lucky {
+    background-color: green;
+}
